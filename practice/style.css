@@ -1,0 +1,10 @@
+.color{
+    opacity: 0.5;
+    margin-left: 15px;
+}
+.main-title{
+    transition: all 0.5s ease;
+}
+.fade{
+    opacity: 0;
+}
